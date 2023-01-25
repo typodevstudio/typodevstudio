@@ -23,17 +23,21 @@
     <img src="https://skillicons.dev/icons?i=nodejs,deno,github,git,mongodb&perline=8"/>
   </a>
 </p>
-<p align="center" style="font-size: 20px; font-weight: 500">
-Фреймворки / библиотеки
-</p>
+
+<h3 align="center" style="margin-bottom: 15px;">
+    <strong>Фреймворки / библиотеки</strong> 
+</h3>
+
 <p align="center">
   <a href="https://vk.com/typodev">
     <img src="https://skillicons.dev/icons?i=svelte,vue,vite,express,electron,tailwind&perline=8" />
   </a>
 </p>
-<p align="center" style="font-size: 20px; font-weight: 500">
-Другое
-</p>
+
+<h3 align="center" style="margin-bottom: 15px;">
+    <strong>Другое</strong> 
+</h3>
+
 <p align="center">
   <a href="https://vk.com/typodev">
     <img src="https://skillicons.dev/icons?i=vscode,figma,xd,ps,ae,pr,vim,sketchup&perline=8"/>
