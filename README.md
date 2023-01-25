@@ -5,9 +5,9 @@
 </h1>
 
 <div style="background: #161b22; border-radius: 10px;padding: 15px;">
-<h2 align="center" style="margin-bottom: 15px;">
+<h3 align="center" style="margin-bottom: 15px;">
     <strong>Языки програмированния / разметки</strong> 
-</h2>
+</h3>
 
 <p align="center">
   <a href="https://vk.com/typodev">
@@ -15,9 +15,9 @@
   </a>
 </p>
 
-<h2 align="center" style="margin-bottom: 15px;">
+<h3 align="center" style="margin-bottom: 15px;">
     <strong>Технологии</strong> 
-</h2>
+</h3>
 <p align="center">
   <a href="https://vk.com/typodev">
     <img src="https://skillicons.dev/icons?i=nodejs,deno,github,git,mongodb&perline=8"/>
