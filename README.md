@@ -1,3 +1,5 @@
+
+
 <br/>
 <br/>
 <div align="middle">
@@ -9,28 +11,28 @@
 #
 
 <h3 align="center" style="margin-bottom: 15px;">
-    <strong>Hi! 👋</strong> Seems like we doesn't know each other. Let's fix that!
+    <strong>Привет! 👋</strong> Кажется мы друг друга не знаем, давай-ка исправим это!
 </h3>
 
 <br/>
 <div align="middle">
-    <img src="./img/badge-en.png" width=800>
+    <img src="./img/badge-ru.png" width=800>
 </div>
 <br/>
 
-<h2 id="generate"><strong>Last Projects:</strong></h2>
+<h2 id="last"><strong>Последние проекты:</strong></h2>
 
--   <a href="https://id.xlsoftware.ru">XL ID - license service for XL Software</a>
--   <a href="https://xl-soft.github.io/press-tools/">press-tools - tools for press of LSTU Univercity College</a>
+-   <a href="https://id.xlsoftware.ru">XL ID -  сервис лицензирования продуктов XL Software </a>
+-   <a href="https://xl-soft.github.io/press-tools/">press-tools - инструменты для пресс-центра профбюро Университетского Колледжа ЛГТУ</a>
 
-<h2 id="about"><strong>About:</strong></h2>
+<h2 id="about"><strong>Обо мне:</strong></h2>
 
-I started as a graphic designer in 2015. As time passed, the days changed, and I began to realize that design in my current understanding of it stopped covering my needs for self-expression. In 2021, I tried to enter UX/UI design. And... it turned out) <br/><br/>
-I continued to work, studied new features, and now I got to programming. In March 2022, I began to study a huge number of technologies, solved local problems and here we are) <br/><br/>
-In 2023, in which I can finally bring my ideas to life and not leave them at the level of dreams in the bathroom.<br/><br/>
-I am ready to solve your tasks, I left <a href="#contacts">contacts</a>  below, if you are interested, write to me in any social network below)
+Я стартовал как графический дизайнер в 2015 году. Время шло, дни менялись, а я начал понимать что дизайн в текущем моем его понимании перестал покрывать мои потребности в самовыражении. В 2021 году я попробовал войти в  UX/UI дизайн. И... получилось)<br/><br/>
+Я продолжал работать, изучал новые возможности и вот добрался до программирования. В марте 2022 года я начал изучать огромное количество технологий, решал локальные проблемы и вот мы здесь) <br/><br/>
+В 2023 году, в котором я наконец-то могу воплотить свои задумки в жизнь а не оставлять их на уровне мечтаний в ванной.<br/><br/>
+Готов решать и ваши задачи, ниже я оставил <a href="#contacts">Контакты</a>, если заинтересовало, напиши мне в любую соц. сеть расположенную ниже)
 
-<h2 id="contacts"><strong>Contacts:</strong></h2>
+<h2 id="contacts"><strong>Контакт:</strong></h2>
 
 <h3 align="center">
     <a href="https://vk.me/xlsoftware" target="_blank" rel="noreferrer">
@@ -44,6 +46,6 @@ I am ready to solve your tasks, I left <a href="#contacts">contacts</a>  below, 
     </a>
 </h3>
 <h3 align="center">
-    GMT +3, please contact me from 10am to 12pm
+    Пожалуйста, пишите с 10 утра до 12 вечера по МСК
 </h3>
 
