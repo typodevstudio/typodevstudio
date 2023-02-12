@@ -49,3 +49,14 @@
     Пожалуйста, пишите с 10 утра до 12 вечера по МСК
 </h3>
 
+<h3 align="center">
+    Язык: 
+    <a href="https://github.com/xl-soft/xl-soft/blob/master/README.en.md" target="_blank" rel="noreferrer">
+        English
+    </a>
+    /
+    <a href="https://github.com/xl-soft/xl-soft/blob/master/README.md" target="_blank" rel="noreferrer">
+        Русский
+    </a>
+</h3>
+
