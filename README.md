@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://vk.com/typodev">
-    <img src="https://skillicons.dev/icons?i=svelte,vue,vite,express,electron,tailwind&perline=8" />
+    <img src="https://skillicons.dev/icons?i=svelte,vue,vite,express,electron&perline=8" />
   </a>
 </p>
 
