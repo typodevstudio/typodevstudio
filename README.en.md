@@ -46,4 +46,14 @@ I am ready to solve your tasks, I left <a href="#contacts">contacts</a>  below, 
 <h3 align="center">
     GMT +3, please contact me from 10am to 12pm
 </h3>
+<h3 align="center">
+    Language: 
+    <a href="https://github.com/xl-soft/xl-soft/blob/master/README.en.md" target="_blank" rel="noreferrer">
+        English
+    </a>
+    /
+    <a href="https://github.com/xl-soft/xl-soft/blob/master/README.md" target="_blank" rel="noreferrer">
+        Русский
+    </a>
+</h3>
 
