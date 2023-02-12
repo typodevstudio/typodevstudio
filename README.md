@@ -33,10 +33,10 @@ I am ready to solve your tasks, I left <a href="#contacts">contacts</a>  below, 
 <h2 id="contacts"><strong>Contacts:</strong></h2>
 
 <h3 align="center">
-    <a href="https://vk.com/xlsoftware" target="_blank" rel="noreferrer">
+    <a href="https://vk.me/xlsoftware" target="_blank" rel="noreferrer">
         <img src="./img/vk.png" height=50>
     </a>
-    <a href="https://t.com/xlsoftware" target="_blank" rel="noreferrer">
+    <a href="https://t.me/xlsoftware" target="_blank" rel="noreferrer">
         <img src="./img/tg.png" height=50>
     </a>
     <a href="https://github.com/xl-soft" target="_blank" rel="noreferrer">
