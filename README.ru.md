@@ -21,8 +21,11 @@
 <br/>
 
 <h2 id="generate"><strong>Лучшие проекты:</strong></h2>
+
 -   <a href="https://github.com/xl-soft/ui">XL Software UI - некст-ген Svelte UI-кит </a>
+
 -   <a href="https://github.com/xl-soft/kit">XL Web Kit - готовый для деплоя темплейт на SvelteKit</a>
+
 <h2 id="about"><strong>About:</strong></h2>
 
 <h2 id="about"><strong>Обо мне:</strong></h2>
