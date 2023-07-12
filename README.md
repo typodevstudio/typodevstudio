@@ -14,7 +14,7 @@
 
 <br/>
 <div align="middle">
-    <img src="./img/badge-en.png" width=800>
+    <img src="./img/badge-en.png" width=600>
 </div>
 <br/>
 

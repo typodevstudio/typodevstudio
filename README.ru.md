@@ -16,7 +16,7 @@
 
 <br/>
 <div align="middle">
-    <img src="./img/badge-ru.png" width=800>
+    <img src="./img/badge-ru.png" width=600>
 </div>
 <br/>
 
