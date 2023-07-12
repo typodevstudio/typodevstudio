@@ -19,7 +19,6 @@
 <br/>
 
 <h2 id="generate"><strong>Best Projects:</strong></h2>
-
 -   <a href="https://github.com/xl-soft/ui">XL Software UI - next-gen Svelte UI-kit </a>
 -   <a href="https://github.com/xl-soft/kit">XL Web Kit - ready for deployment Svelte template </a>
 <h2 id="about"><strong>About:</strong></h2>
